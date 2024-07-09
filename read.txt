@@ -1,0 +1,8 @@
+//REST Api service follows rest architecture uses these http methods to perform CRUD operation(Get,Post,PUT,DELETE)
+//Get-R//post-Create
+//PUT-update
+//Del-Del
+
+//With the helpof dataformats such as json or .xml
+//Roleof a backend engineer : Decision making
+//Routes=>Controller=>Model=>Middleware
